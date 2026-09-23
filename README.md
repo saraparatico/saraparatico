@@ -12,9 +12,9 @@ My work at Policlinico San Donato is part of **PAMP-FA**, a study aiming to deve
 
 Making these data usable for statistical analysis and machine learning has involved several kinds of work:
 
+- **Electroanatomical mapping.** I developed automated quantification of left atrial low-voltage area from CARTO3 and Opal maps using 3D mesh processing. I also explored associations with clinical variables through regression analyses. This work led to my first-author contribution at Computing in Cardiology 2026.
 - **Research platform.** I contribute to Omics Portal and Chirone, working with the collaborator who designed the ETL architecture. I develop Django/PostgreSQL features, document source data and build data marts and dashboards, including views that connect diagnostic questions with genetic findings. I also developed an operating-room tracking page fed by hospital records.
 - **Clinical text analysis.** I developed bilingual, rule-based NLP applied to more than 58,000 discharge letters and to procedure reports. I prepare tests and investigate classification errors with clinicians.
-- **Electroanatomical mapping.** I developed automated quantification of left atrial low-voltage area from CARTO3 and Opal maps using 3D mesh processing. I also explored associations with clinical variables through regression analyses. This work led to my first-author contribution at Computing in Cardiology 2026.
 
 I use Python, SQL and Git in this work, alongside technical documentation and checks against source records. Other tools I have developed include Selenium workflows for study operations. I have also deployed medical language models locally on GPUs with MedGemma and Ollama. The clinical repositories are private.
 

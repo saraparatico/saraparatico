@@ -12,9 +12,9 @@ Il mio lavoro al Policlinico San Donato si svolge nell'ambito di **PAMP-FA**, un
 
 Per rendere questi dati utilizzabili nelle analisi statistiche e nel machine learning ho lavorato su diversi aspetti:
 
+- **Mappaggio elettroanatomico.** Ho sviluppato la quantificazione automatica delle aree a basso voltaggio dell'atrio sinistro da mappe CARTO3 e Opal attraverso l'elaborazione di mesh 3D. Ho anche studiato le associazioni con variabili cliniche tramite analisi di regressione esplorative. Da questo lavoro è nato il mio contributo come prima autrice a Computing in Cardiology 2026.
 - **Piattaforma di ricerca.** Contribuisco a Omics Portal e Chirone, affiancando il collaboratore che ha progettato l'architettura ETL. Sviluppo funzionalità Django/PostgreSQL, documento i dati sorgente e creo datamart e dashboard, comprese visualizzazioni che collegano i quesiti diagnostici ai risultati genetici. Ho anche sviluppato una pagina di monitoraggio della sala operatoria alimentata dai dati del gestionale ospedaliero.
 - **Analisi del testo clinico.** Ho sviluppato un sistema di NLP bilingue basato su regole, applicato a oltre 58.000 lettere di dimissione e ai referti delle procedure. Predispongo test e analizzo gli errori di classificazione con i clinici.
-- **Mappaggio elettroanatomico.** Ho sviluppato la quantificazione automatica delle aree a basso voltaggio dell'atrio sinistro da mappe CARTO3 e Opal attraverso l'elaborazione di mesh 3D. Ho anche studiato le associazioni con variabili cliniche tramite analisi di regressione esplorative. Da questo lavoro è nato il mio contributo come prima autrice a Computing in Cardiology 2026.
 
 In queste attività uso Python, SQL e Git, insieme alla documentazione tecnica e al confronto con i dati sorgente. Ho inoltre sviluppato workflow Selenium a supporto dello studio e distribuito localmente su GPU modelli linguistici medici con MedGemma e Ollama. I repository clinici sono privati.
 
